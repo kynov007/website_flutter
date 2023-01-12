@@ -488,7 +488,7 @@ class HomePage extends StatelessWidget {
         SizedBox(width: 16.0),
         GestureDetector(
           onTap: () {
-            html.window.open("mailto:https://github.com/kynov007", "Github");
+            html.window.open("https://github.com/kynov007", "Github");
           },
           child: Image.network(
             Assets.github,
