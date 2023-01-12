@@ -1,5 +1,5 @@
-name: emmanueloladayo
-description: A portfolio for Emmanuel Oladayo. A software engineer with a breadth of experience.
+name: Moch_Dicky_Novaldi
+description: A portfolio for Moch Dicky Novaldi. A Flutter Developer.
 version: 1.0.0+1
 
 environment:
@@ -21,6 +21,6 @@ flutter:
   uses-material-design: true
   assets:
     - assets/fonts/
-    - assets/icons/
+
 
     - assets/

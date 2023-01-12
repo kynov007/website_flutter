@@ -1,12 +1,10 @@
-import 'package:emmanueloladayo/ui/home.dart';
-
 class Strings {
   Strings._();
 
   static const String about_me = 'About Me';
   static const String about = 'About';
   static const String me = ' Me';
-  static String oladayo = animated ? 'Dicky' : "coba";
+  static String oladayo = 'Dicky';
   static const String emmanuel = ' Novaldi';
   static const String headline =
       'I am Moch Dicky Novaldi, Flutter Developer from Malang, Indonesia';

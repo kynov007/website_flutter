@@ -1,4 +1,4 @@
-import 'package:emmanueloladayo/ui/home.dart';
+import 'package:Moch_Dicky_Novaldi/ui/home.dart';
 import 'package:flutter/material.dart';
 
 import 'utils/screen/screen_utils.dart';
