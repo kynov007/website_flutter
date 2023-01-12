@@ -33962,7 +33962,7 @@ A.Dq.prototype={
 gp(a){return a.length}}
 A.GU.prototype={}
 A.D9.prototype={
-L(a){return new A.tw(new A.tM(null),"Oladayo Emmanuel",A.adp(B.L,null),!1,null)}}
+L(a){return new A.tw(new A.tM(null),"Moch Dicky Novaldi",A.adp(B.L,null),!1,null)}}
 A.tM.prototype={
 am(){return new A.J2(B.l)}}
 A.J2.prototype={
@@ -34065,7 +34065,7 @@ A.SF.prototype={
 $0(){B.ef.ql(window,"mailto:mochdickynovaldi@icloud.com","Email")},
 $S:0}
 A.SG.prototype={
-$0(){B.ef.ql(window,"mailto:https://github.com/kynov007","Github")},
+$0(){B.ef.ql(window,"https://github.com/kynov007","Github")},
 $S:0}
 A.Yg.prototype={}
 A.EI.prototype={
